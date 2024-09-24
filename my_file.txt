@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is line number 2.
+Number of attempts: 3
+Appending new content here.
+This is another line added to the file.
+End of file with line 6.
